@@ -7,10 +7,10 @@ body{
 }
 h1{
     color: royalblue;
-    font-size: 60px;
+    font-size: 70px;
     position: absolute;
-    top: 220px;
-    left: 80px;
+    top: 200px;
+    left: 60px;
 }
 .container{
     display: flex;
@@ -101,11 +101,11 @@ margin-bottom: 5px;
 }
 .rightside{
     position: absolute;
-    right: 50px;
+    right: 40px;
     bottom: 150px;
 }
 .leftside p{
     position: absolute;
         top: 320px;
-        left: 80px;
+        left: 60px;
     }
